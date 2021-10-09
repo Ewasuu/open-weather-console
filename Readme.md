@@ -1,4 +1,4 @@
-Aplicaion creada con el curso de node de Fernando Herrera
+Aplicacion creada con el curso de node de Fernando Herrera
 
 Las APIS utilizadas son: 
 
